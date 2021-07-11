@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aman Jain
-- 👀 I’m interested in Frontend / UI development / JS / ReactJS
-- 🌱 I’m currently learning ReactJS
+- 👋 Hi, I’m Aman Jain , System Engineer at Infosys .
+- 👀 I’m interested in Frontend / UI development / JS / ReactJS / HTML5 / CSS3 
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me : ajain8479gmail.com
 
 <!---
